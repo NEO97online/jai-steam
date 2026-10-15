@@ -1,6 +1,6 @@
 ### 2026  
 [Gravity's Edge](https://store.steampowered.com/app/4353210/Gravitys_Edge/), space based action adventure with story and survival mode, by kvassall
-[Order of the Sinking Star)[https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/), a massive puzzle adventure with more than one-thousand hand crafted puzzles, by Thekla, Inc.
+[Order of the Sinking Star](https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/), a massive puzzle adventure with more than one-thousand hand crafted puzzles, by Thekla, Inc.
 
 ### 2025
 
